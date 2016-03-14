@@ -1,0 +1,46 @@
+/*TASK
+*home page
+*resume page/portfolio
+*css style sheet
+*make sure you have links for FB, linkedin and twitter
+*nav for home pg from portfolio and vica verca*/
+
+.header, .footer {
+	text-align: center;
+}
+
+html {
+	font-family: helvetica;
+}
+
+p {
+	font-family: century; 
+}
+
+hr.thick {
+	height: 4px;
+	background-color: black;
+}
+
+.subheading{
+	font-weight: bold;
+	font-style: italic;
+}
+span.awesome{
+	font-style: italic;
+	font-weight: bold;
+}
+div.summary {
+	padding: 20px;
+}
+
+h2 {
+	text-transform: uppercase;
+}
+
+ul.horizontal-list > li {
+	display: inline-block;
+}
+body{
+	background-color: #ecf0f1;
+}
